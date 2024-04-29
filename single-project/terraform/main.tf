@@ -1,3 +1,3 @@
 resource "random_pet" "this" {
-  length = 5
+  length = 10
 }
